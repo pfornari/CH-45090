@@ -4,7 +4,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <p>
-          Hola como estan?
+          Hola como estan? Todo bien?
         </p>
         <a
           className="App-link"
